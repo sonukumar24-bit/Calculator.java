@@ -1,10 +1,12 @@
-# Simple Multiplication Program
+# Java Calculator
 
-This Java program reads two numbers and prints their product.
+This calculator supports addition, subtraction, multiplication, and division.
 
 ## Run
 
 ```bash
-javac Multiplication.java
-java Multiplication
+javac Calculator.java
+java Calculator
 ```
+
+Choose an operation from the menu, then enter two numbers.
